@@ -1,0 +1,26 @@
+                         /*-----------------------
+
+                  Spacification button's 
+
+------------------------------- */
+
+
+.btn-style{
+    font-size: x-small ;
+    font-weight: 600;
+    background-color: rgb(255, 162, 0) ;
+    color:white;
+
+
+}
+/*<----------------
+
+                  Cash Mwmo
+
+                            ---------------->  */
+
+
+.table-style{
+    font-weight: 700;
+    font-size: xx-small;
+}
